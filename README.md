@@ -1,2 +1,2 @@
-# ID-47-Helmets-Hordes
-This repository exists for archival purposes only.
+# Helmets & Hordes
+Code for the game Helmets & Hordes for Arduboy
